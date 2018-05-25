@@ -1,4 +1,4 @@
-# Appium Desktop [![Build Status](https://travis-ci.org/appium/appium-desktop.svg?branch=master)](https://travis-ci.org/appium/appium-desktop)
+# Appium Desktop [![Build Status](https://travis-ci.org/appium/appium-desktop.svg?branch=master)](https://travis-ci.org/appium/appium-desktop) [![Greenkeeper badge](https://badges.greenkeeper.io/appium/appium-desktop.svg)](https://greenkeeper.io/)
 
 ![Action screenshot](docs/images/screen-inspector-and-logs.png)
 
